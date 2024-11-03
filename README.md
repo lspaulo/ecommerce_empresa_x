@@ -1,6 +1,6 @@
 # E-commerce empresa X
 
-Vamor criar um e-commerce para x
+Vamor criar um **e-commerce** para a *empresa X*
 
 ## Funcionalidades:
 
